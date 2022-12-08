@@ -1,1 +1,0 @@
-The file is generated in this system named as text and the data is stored in that filethe value of the num variable is 55545
